@@ -1,0 +1,14 @@
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: black;
+}
+
+p:hover {
+    color: red;
+}
+
+code{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
